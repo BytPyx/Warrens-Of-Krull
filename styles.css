@@ -1,0 +1,17 @@
+body {
+    color: #61481C;
+    background-color: #BF9742;
+  }
+  
+  hr {
+    background-color: #A47E3B;
+    border-color: #A47E3B;
+    border-style: none;
+    height: 5px;
+    width: 97%;
+  }
+
+  table {
+    border: "1";
+  }
+  
